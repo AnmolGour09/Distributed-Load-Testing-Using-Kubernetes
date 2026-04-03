@@ -6,9 +6,7 @@
 
 </div>
 
-```bash
-export ZONE=
-```
+
 
 ```bash
 curl -LO https://raw.githubusercontent.com/AnmolGour09/Distributed-Load-Testing-Using-Kubernetes/refs/heads/main/Anmol.sh
